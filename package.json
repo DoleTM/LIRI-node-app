@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/DoleTM/LIRI-node-app#readme",
   "dependencies": {
-    "chalk": "^2.4.2"
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "dotenv": "^6.2.0",
+    "node-spotify-api": "^1.0.7"
   }
 }
